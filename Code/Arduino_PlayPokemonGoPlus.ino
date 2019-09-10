@@ -1,18 +1,33 @@
+// This Arduino code was copy from " PokeBot – Catch Pokémon’s in your sleep (and at work) "
+// And Written by " Johan von Konow "
+// Thanks for his Arduino code and circuit diagram compact
+
 #include <SPI.h>
+//Input SPI library
 #include "LCD_Functions.h"
+//Input Nokia 5110 LCD library
 
 const int vibratePin = A0;
 const int switchPin = A1;
 const int bluePin = A2;
 const int redPin = A3;
 const int greenPin = A4;
+// Pokemon Go Plus 
+
 const int cfg2Pin = 2;
 const int cfg1Pin = 3;
-const int maxCol = 14; // LCD_WIDTH/6;
+const int maxCol = 14;
+//IF NOKIA 5110 LCD_WIDTH 6;
 //const int ledPin =  13;
+
+//PokeStop Maximum Spinning Limited
 int maxSpin=200;
+//PokeStop Spinning, Starting/Currently Numbers
 int curSpin=124;
+
+//PokeBall Maximum Throwing Limited
 int maxBall=200;
+//PokeBall Starting/Currently Numbers
 int curBall=56;
 
 void setup() {
@@ -148,4 +163,3 @@ void printStr(String str1,int row){
   }
   updateDisplay();
 }
-
