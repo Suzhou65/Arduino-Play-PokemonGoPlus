@@ -1,5 +1,7 @@
 #  Arduino Play Pokemon Go Plus
-[![arduino](https://github.takahashi65.info/lib_badge/arduino-nano.svg)](https://www.arduino.cc/) [![arduino](https://github.takahashi65.info/lib_badge/arduino-uno.svg)](https://www.arduino.cc/)
+[![arduino](https://github.takahashi65.info/lib_badge/arduino-nano.svg)](https://www.arduino.cc/)
+[![arduino](https://github.takahashi65.info/lib_badge/arduino-uno.svg)](https://www.arduino.cc/)
+[![Size](https://github-size-badge.herokuapp.com/Suzhou65/Arduino-Play-PokemonGoPlus.svg)](https://github.com/axetroy/github-size-badge)
 
 Spinning Pokestops and Catching Pokémon without Manually !  
 So you can let Arduino clicking Pokemon Go Plus while you are sleeping, or working
