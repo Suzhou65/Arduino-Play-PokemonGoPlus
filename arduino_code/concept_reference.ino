@@ -1,5 +1,5 @@
 // This Arduino code was clean copy from " PokeBot – Catch Pokémon’s in your sleep (and at work) "
-// And Written by the author " Johan von Konow "
+// and written by the author " Johan von Konow "
 // Thanks for his Arduino code and circuit diagram concept
 
 #include <SPI.h>
