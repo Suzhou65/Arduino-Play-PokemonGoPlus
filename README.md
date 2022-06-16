@@ -24,7 +24,9 @@
   - ```concept_reference.ino``` Clean copy from ```Johan von Konow```
   - ```concept_v1.ino``` 2022_06_07, concept
 * ```bill_of_materials``` About PCB design, and bill of materials
+  - ```arduino_2_pokemon_bom.md``` Bill of materials, for controller board
   - ```concept_bom.md``` Bill of materials, for concept board
+  - ```pokemon_go_plus_bb_bom.md``` Bill of materials, for breakout board
 * ```action_of_pokemon_go_plus.md``` Explane the mechanism of Pokemon Go Plus
 * ```concep_develop.md``` Develop stage, take reference from Johan von Konow
 * ```concept_gerber_arduino_nano_v1.zip``` Concept PCB design, For Arduino Nano

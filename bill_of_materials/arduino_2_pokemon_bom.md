@@ -19,6 +19,10 @@
 | DIP switch | C&K, BD01 | SPST, 1 Position | 2 |
 | Tactile switch | C&K, PTS645SM43JSMTR92 LFS | Button_Switch, W: 6mm, H: 4.3mm | 1 |
 | Power Jacks | CUI Devices, PJ-102AH | 5A, 24V , ID: 2mm, OD: 6.5mm | 1 |
+| Pin IC header | | 1x15, 2.54mm, for Arduino Nano | 2 |
+| Pin IC socket | | 1x15, 2.54mm, for Arduino Nano | 2 |
+| Pin IC header | | 1x04, 2.54mm, for SSD1306 OLED display module | 1 |
+| Pin IC socket | | 1x04, 2.54mm, for SSD1306 OLED display module | 1 |
 | Pin header | | 1x04, Female, 2.54mm | 1 |
 | Pin header | | 2x04, Male, 2.54mm | 1 |
-| Total | | | 15 |
+| Total | | | 21 |
