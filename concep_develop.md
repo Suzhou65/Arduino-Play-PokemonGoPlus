@@ -44,71 +44,71 @@ Concept PokemonGo Plus modify and Arduino controller board.
 
 ## Circuit diagram and PCB design
 * Circuit diagram
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_schematic.webp)
 * Concept PCB design for Arduino Nano
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcb_front.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_pcb_front.webp)
 * Enhanced version  
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_enhanced_pcb_front.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_enhanced_pcb_front.webp)
 * For Arduino Uno
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcb_front.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_uno_pcb_front.webp)
 
 ## Teardown Pokemon Go Plus
 * Remove CR2032 battery from Pokemon Go Plus
-![](https://github.takahashi65.info/lib_img/github_pokemon_battery.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_battery.webp)
 * Using Y00 triwing tripoint screwdriver to
-![](https://github.takahashi65.info/lib_img/github_pokemon_teardwon.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_teardwon.webp)
 * Desoldering vibration motor
-![](https://github.takahashi65.info/lib_img/github_pokemon_vob.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_teardown_vob.webp)
 + Figure out pinout.
-![](https://github.takahashi65.info/lib_img/github_pokemon_led_pin.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_led_pin_origin.webp)
 
 ## Pirated version Pokemon Go Plus
 * Unfortunately, after teardown more Pokemon Go Plus, I thought that I bought pirated version.
-![](https://github.takahashi65.info/lib_img/github_pokemon_compare.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_compare.webp)
 * Fortunately, the pirated version pinout is same as genuine version.
-![](https://github.takahashi65.info/lib_img/github_pokemon_led_pin_origin.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_led_pin_piracy.webp)
 
 ## Modify Pokemon Go Plus
 * Soldering 30AWG wire wrapping wire, it should stretch seven connect wires, then fixed the wire.
-![](https://github.takahashi65.info/lib_img/github_pokemon_wire.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_wiring.webp)
 * Cutting Pokemon Go Plus case, for setting pin connector.
-![](https://github.takahashi65.info/lib_img/github_pokemon_case_cut.webp)
-* Connecting Circuit from Pokemon Go Plus to pin connector.
-![](https://github.takahashi65.info/lib_img/github_pokemon_pinconnect.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_edge.webp)
+* Connecting circuit from Pokemon Go Plus to pin connector.
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_modify.webp)
 * Pinout and circuit rule as follows.
-![](https://github.takahashi65.info/lib_img/github_pokemon_pinout.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_modify_pinout.webp)
 * Fixed the pin connector, then put everything back, without vibration motor.
-![](https://github.takahashi65.info/lib_img/github_pokemon_reassembly.webp)
+![](https://github.takahashi65.info/lib_img/github_pokemon_go_reassembly.webp)
 
 ## Soldering components on control board
 Download Gerber file, Upload to PCB prototype manufacturer, or PCB fabrication manufacturer.
 * Get PCB from PCB fabrication manufacturer, or PCB prototype manufacturer.
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcb.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_pcb.webp)
 * Soldering electronic components, including pin header, capacitor, slide switch and micro USB breakout board.
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_assembly.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_assembly.webp)
 * Checking Nokia 5110 LCD Board pinout, make sure it can directly connect to board or need wire.
-![](https://github.takahashi65.info/lib_img/github_nokia_5110.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_nokia_5110.webp)
 * If the backlight circuit already has resistors, ```Resistors R9_D9``` don't need to install, soldering as jumper.
 * Soldering Nokia 5110 LCD Board, or using pin header and pin connector
 * Soldering Arduino Nano, or you can soldering pin socket, so you can remove it easily.
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_complete.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_complete.webp)
 
 ## Connecting cable for Pokemon Go Plus
 * Making Pokemon Go Plus connect cable.
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_wire.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_connect_wire.webp)
 * Pinout and circuit rule as follows.
-![](https://github.takahashi65.info/lib_img/github_pokemon_connect_wire.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_wire.webp)
 
 ## Compile Arduino code and upload
 * Plug Arduino USB cable, compile and upload program.
 * Power on the Board, Connect Pokemon Go Plus.
 * Pray that everything goes well
-![](https://github.takahashi65.info/lib_img/github_pokemon_running.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_running.webp)
 * Now, enjoy  
-![](https://github.takahashi65.info/lib_img/github_pokemon_complete.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_case.webp)
 
 ## Demo video
-[![Actual Operation demo on YouTube](https://github.takahashi65.info/lib_img/github_pokemon_youtube.webp)](https://youtu.be/61VY3UylwxM)
+[![Actual Operation demo on YouTube](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_youtube.webp)](https://youtu.be/61VY3UylwxM)
 
 ## Bill of materials
 * ```bill_of_materials/concept_bom.md```

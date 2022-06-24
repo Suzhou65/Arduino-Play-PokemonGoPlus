@@ -5,8 +5,8 @@
 ![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_schematic.webp)
 
 ## Board preview
-![](https://github.takahashi65.info/lib_img/github_arduino_control_pokemon_pcb_front.webp) 
-![](https://github.takahashi65.info/lib_img/github_arduino_control_pokemon_pcb_rear.webp)  
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_control_pcb_front.webp) 
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_control_pcb_rear.webp)  
 
 ### Bill of materials  
 | Component| Manufacturer and part number | Description | Amount |

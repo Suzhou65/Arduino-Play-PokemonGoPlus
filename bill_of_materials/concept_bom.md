@@ -4,11 +4,11 @@
 ```
 
 ## Circuit diagram
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_circuit.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_schematic.webp)
 
 ## Arduino Nano
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcb_front.webp)  
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_pcb_rear.webp)  
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_pcb_front.webp)  
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_pcb_rear.webp)  
 
 ### Bill of materials  
 | Component| Manufacturer and part number | Description | Amount |
@@ -28,8 +28,8 @@
 | Total | | | 25 |
 
 ## Arduino Uno
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcb_front.webp)  
-![](https://github.takahashi65.info/lib_img/github_arduinoplaypokemon_uno_pcb_rear.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_uno_pcb_front.webp)  
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_uno_pcb_rear.webp)
 
 ### Bill of materials  
 | Component| Manufacturer and part number | Description | Amount |

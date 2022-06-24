@@ -2,11 +2,11 @@
 **Breakout board for Pokemon Go Plus**
 
 ## Circuit diagram
-![](https://github.takahashi65.info/lib_img/github_pokemon2bb_schematic.webp)
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_breakoutboard_schematic.webp)
 
 ## Board preview
-![](https://github.takahashi65.info/lib_img/github_pokemongoplus_board_front.webp) 
-![](https://github.takahashi65.info/lib_img/github_pokemongoplus_board_rear.webp)  
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_breakoutboard_front.webp) 
+![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_breakoutboard_rear.webp)  
 
 ### Bill of materials
 | Component| Manufacturer and part number | Description | Amount |
