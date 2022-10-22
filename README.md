@@ -1,7 +1,7 @@
 # Arduino Play Pokemon Go Plus
 [![arduino](https://github.takahashi65.info/lib_badge/arduino-nano.svg)](https://www.arduino.cc/)
 [![under_development](https://github.takahashi65.info/lib_badge/under_development.svg)](https://github.com/Suzhou65/Arduino-Play-PokemonGoPlus)
-[![Size](https://github-size-badge.herokuapp.com/Suzhou65/Arduino-Play-PokemonGoPlus.svg)](https://github.com/axetroy/github-size-badge)
+[![Size](https://img.shields.io/github/repo-size/Suzhou65/Arduino-Play-PokemonGoPlus.svg)](https://shields.io/category/size)
 
 ## Pokemon Go Plus Enhanced Solution
 * Spinning Pokestops and catching Pokémon without manually !

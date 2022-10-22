@@ -1,6 +1,8 @@
 # Arduino play Pokemon Go Plus
 **Breakout board for Pokemon Go Plus**
 
+[![GitHub file size in bytes](https://img.shields.io/github/size/Suzhou65/Arduino-Play-PokemonGoPlus/gerber_pokemongoplus_board.zip?label=Gerber)](https://shields.io/category/size)
+
 ## Circuit diagram
 ![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_breakoutboard_schematic.webp)
 

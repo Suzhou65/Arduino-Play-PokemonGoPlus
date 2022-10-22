@@ -7,6 +7,9 @@
 ![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_schematic.webp)
 
 ## Arduino Nano
+[![GitHub file size in bytes](https://img.shields.io/github/size/Suzhou65/Arduino-Play-PokemonGoPlus/concept_gerber_arduino_nano_v1.zip?label=Gerber_Arduino_Nano_v1)](https://shields.io/category/size)
+[![GitHub file size in bytes](https://img.shields.io/github/size/Suzhou65/Arduino-Play-PokemonGoPlus/concept_gerber_arduino_nano_v2.zip?label=Gerber_Arduino_Nano_v2)](https://shields.io/category/size)
+
 ![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_pcb_front.webp)  
 ![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_pcb_rear.webp)  
 
@@ -28,6 +31,8 @@
 | Total | | | 25 |
 
 ## Arduino Uno
+[![GitHub file size in bytes](https://img.shields.io/github/size/Suzhou65/Arduino-Play-PokemonGoPlus/concept_gerber_arduino_uno_v1.zip?label=Gerber_Arduino_Uno)](https://shields.io/category/size)
+
 ![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_uno_pcb_front.webp)  
 ![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_concept_uno_pcb_rear.webp)
 

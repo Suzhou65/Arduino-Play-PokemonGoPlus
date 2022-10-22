@@ -1,6 +1,8 @@
 # Arduino play Pokemon Go Plus
 **Arduino-based controller board**
 
+[![GitHub file size in bytes](https://img.shields.io/github/size/Suzhou65/Arduino-Play-PokemonGoPlus/gerber_arduino_2_pokemon.zip?label=Gerber)](https://shields.io/category/size)
+
 ## Circuit diagram
 ![](https://github.takahashi65.info/lib_img/github_arduino2pokemon_schematic.webp)
 
